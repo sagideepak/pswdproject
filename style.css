@@ -1,0 +1,169 @@
+.parent{
+  border:2px solid black;
+}
+.parent
+{
+  display:flex;
+  flex-direction: row;
+}
+.child1{
+  border:1px solid black;
+  margin: 3%;
+  padding: 3%;
+  width: 30%
+}
+.child1 img{
+  width: 80%;
+  height: 30%;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-left: auto;
+  box-shadow: 2px 2px 2px black;
+}
+.child2{
+  border:1px solid black;
+  margin: 3%;
+  padding: 3%;
+  width: 70%;
+}
+.child1 h3{
+  word-wrap: break-word;
+}
+.child2 h2{
+  word-wrap: break-word;
+}
+.child1 a{
+  word-wrap: break-word;
+}
+
+@media only screen and (min-width:0px) and (max-width:480px)
+{
+.parent{
+  border:2px solid black;
+}
+.parent
+{
+  display:flex;
+  flex-direction: column;
+}
+.child1{
+  background-color: yellow;
+  border:1px solid black;
+  margin: 3%;
+  padding: 3%;
+  width: 80%
+}
+.child1 img{
+  width: 80%;
+  height: 30%;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-left: auto;
+  box-shadow: 2px 2px 2px black;
+}
+.child2{
+  background-color: skyblue;
+  border:1px solid black;
+  margin: 3%;
+  padding: 3%;
+  width: 80%;
+}
+.child1 h3{
+  word-wrap: break-word;
+}
+.child2 h2{
+  word-wrap: break-word;
+}
+.child1 a{
+  word-wrap: break-word;
+}
+}
+
+
+@media only screen and (min-width:481px) and (max-width:762px)
+{
+
+.parent{
+  border:2px solid black;
+}
+.parent
+{
+  display:flex;
+  flex-direction: row;
+}
+.child1{
+  background-color: #9db7e0;
+  border:1px solid black;
+  margin: 3%;
+  padding: 3%;
+  width: 50%
+}
+.child1 img{
+  width: 80%;
+  height: 30%;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 2px 2px black;
+}
+.child2{
+  background-color: #6b84aa;
+  border:1px solid black;
+  margin: 3%;
+  padding: 3%;
+  width: 50%;
+}
+.child1 h3{
+  word-wrap: break-word;
+  font-size: 180%;
+}
+.child2 h2{
+  word-wrap: break-word;
+}
+.child1 a{
+  word-wrap: break-word;
+}
+}
+@media only screen and (min-width:763px) and (max-width:1024px)
+{
+  .parent{
+    border:2px solid black;
+  }
+  .parent
+  {
+    display:flex;
+    flex-direction: row;
+  }
+  .child1{
+    border:1px solid black;
+    background-color: #6d747f;
+    margin: 3%;
+    padding: 3%;
+    width: 30%
+  }
+  .child1 img{
+    width: 80%;
+    height: 30%;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-left: auto;
+    box-shadow: 2px 2px 2px black;
+  }
+  .child2{
+    background-color: #40454c;
+    border:1px solid black;
+    margin: 3%;
+    padding: 3%;
+    width: 70%;
+  }
+  .child1 h3{
+    word-wrap: break-word;
+  }
+  .child2 h2{
+    word-wrap: break-word;
+  }
+  .child1 a{
+    word-wrap: break-word;
+  }
+
+}
