@@ -11,5 +11,39 @@
   "career":{
     "heading":"CAREER OBJECTIVES",
     "info":"To pursure a challenging career, ability to learn quickly"
-  }
+  },
+  "education":[{
+    "degree":"BTECH",
+    "institution":"Sagi Rama KrishnaRaju college",
+    "date":["2016-2020","88%"]
+  },
+  {
+    "degree":"Intermediate",
+    "institution":"Sasi junior college",
+    "date":["2014-2016","97%"]
+  },
+  {
+    "degree":"SSc",
+    "institution":"sasi",
+    "date":["2013-2014","88%"]
+  }],
+  "skill":[{
+    "title":"programming language",
+    "info":["c","c++","java","python","ruby"]
+  },
+  {
+    "title":"operating systems",
+    "info":["windows","linux","mac","ubuntu","dos"]
+  },
+  {
+    "title":"Databases",
+    "info":["oracle","sql","mysql"]
+  }],
+  "Achivement":[{
+    "info":"I achived OSI certificate in my 9th standard"},
+    {"info":"I achived CISCO certificate in 2/4 BTECH"},
+    {"info":"I achived JAVA certificate in 2/4 BTECH"},
+    {"info":"I achived BIGDATa certificate in 2/4 BTECH"}
+  ]
+
 }
