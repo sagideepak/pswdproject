@@ -10,14 +10,16 @@
   border:1px solid black;
   margin: 3%;
   padding: 3%;
-  width: 30%
+  width: 30%;
+  text-align: center;
 }
 .child1 img{
   width: 80%;
   height: 30%;
+  display: block;
   border-radius: 50%;
   margin-left: auto;
-  margin-left: auto;
+  margin-right: auto;
   box-shadow: 2px 2px 2px black;
 }
 .child2{
@@ -25,6 +27,7 @@
   margin: 3%;
   padding: 3%;
   width: 70%;
+  text-align: center;
 }
 .child1 h3{
   word-wrap: break-word;
@@ -51,14 +54,16 @@
   border:1px solid black;
   margin: 3%;
   padding: 3%;
-  width: 80%
+  width: 80%;
+  text-align: center;
 }
 .child1 img{
   width: 80%;
   height: 30%;
   border-radius: 50%;
+  display: block;
   margin-left: auto;
-  margin-left: auto;
+  margin-right: auto;
   box-shadow: 2px 2px 2px black;
 }
 .child2{
@@ -67,6 +72,7 @@
   margin: 3%;
   padding: 3%;
   width: 80%;
+  text-align: center;
 }
 .child1 h3{
   word-wrap: break-word;
@@ -96,12 +102,14 @@
   border:1px solid black;
   margin: 3%;
   padding: 3%;
-  width: 50%
+  width: 50%;
+  text-align: center;
 }
 .child1 img{
   width: 80%;
   height: 30%;
   border-radius: 50%;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   box-shadow: 2px 2px 2px black;
@@ -112,6 +120,7 @@
   margin: 3%;
   padding: 3%;
   width: 50%;
+  text-align: center;
 }
 .child1 h3{
   word-wrap: break-word;
@@ -139,14 +148,16 @@
     background-color: #6d747f;
     margin: 3%;
     padding: 3%;
-    width: 30%
+    width: 30%;
+    text-align: center;
   }
   .child1 img{
     width: 80%;
     height: 30%;
     border-radius: 50%;
+    display: block;
     margin-left: auto;
-    margin-left: auto;
+    margin-right: auto;
     box-shadow: 2px 2px 2px black;
   }
   .child2{
@@ -155,6 +166,7 @@
     margin: 3%;
     padding: 3%;
     width: 70%;
+    text-align: center;
   }
   .child1 h3{
     word-wrap: break-word;
